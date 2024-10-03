@@ -2,9 +2,9 @@
 - 👀 I’m interested in learning as much as I can
 - 🌱 I’m currently learning Laravel and Symfony
 - 💞️ I’m looking to collaborate on exciting projects that challenge my skills and expand my knowledge.
-- 📫 You can reach me via email at vicentevoley9@gmail.com
-- 🟦 Or contact me on LinkedIn at https://www.linkedin.com/in/vicente-corts-le%C3%B3n-362372195/
-- ⚡ Fun fact: I work as Firefighter
+- 📫 You can reach me via email at vicentevoley9@gmail.com to chat, or corleo.vicente@gmail.com to talk about work 
+- 🟦 Also you may contact me on LinkedIn at www.linkedin.com/in/vicente-corts-leon
+- 🔥 Fun fact: I work as Firefighter 🔥
 
 
 <!--- - 😄 Pronouns: He/him--->
