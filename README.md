@@ -3,6 +3,7 @@
 ![https://github.com/VicenteCorts](./icons8-html-64.png)
 ![https://github.com/VicenteCorts](./icons8-css-64.png)
 ![https://github.com/VicenteCorts](./icons8-js-64.png)
+![https://github.com/VicenteCorts](./icons8-mysql-64.png)
 ![https://github.com/VicenteCorts](./icons8-php-logo-64.png)
 ![https://github.com/VicenteCorts](./icons8-laravel-64.png)
 ![https://github.com/VicenteCorts](./symfony_icon_137135.png)
