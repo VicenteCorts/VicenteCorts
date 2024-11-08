@@ -3,6 +3,8 @@
 ![https://github.com/VicenteCorts](./icons8-html-64.png)
 ![https://github.com/VicenteCorts](./icons8-css-64.png)
 ![https://github.com/VicenteCorts](./icons8-js-64.png)
+![https://github.com/VicenteCorts](./icons8-php-logo-64.png)
+![https://github.com/VicenteCorts](./icons8-wordpress-64.png)
 
 - 👀 I’m interested in learning as much as I can
 - 🌱 I’m currently learning Laravel and Symfony
