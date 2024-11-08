@@ -10,10 +10,70 @@
 ![https://github.com/VicenteCorts](./icons8-github-64.png)
 ![https://github.com/VicenteCorts](./icons8-linkedin-64.png)
 
-- 👀 I’m interested in learning as much as I can
-- 💞️ I’m looking to collaborate on exciting projects that challenge my skills and expand my knowledge.
-- 🔥 Fun fact: I work as Firefighter 🔥
+# 🛤️ Ruta de Aprendizaje Personal
 
+Bienvenido/a a mi camino de aprendizaje en el mundo del desarrollo y la tecnología. En este archivo, comparto mis logros hasta el momento y mis próximos objetivos para seguir creciendo como desarrollador/a.
+
+---
+
+## 🎓 Logros Actuales
+
+### 1. Grado Superior en Desarrollo de Aplicaciones Web (DAW)
+   - **Institución**: [Ilerna](https://www.ilerna.es)
+   - Finalizado con éxito, este programa me proporcionó una base sólida en desarrollo web, tanto en frontend como en backend.
+
+### 2. Experiencia Laboral en Multiplicalia
+   - **Posición**: Desarrollador/a Web
+   - **Duración**: 1 año
+   - **Descripción**: Colaboré en el diseño y desarrollo de sitios web para clientes, trabajando en tareas de desarrollo web y diseño gráfico.
+   - **Proyectos Destacados**:
+     - [Proyecto 1](https://enlace-a-tu-proyecto1.com)
+     - [Proyecto 2](https://enlace-a-tu-proyecto2.com)
+     - [Proyecto 3](https://enlace-a-tu-proyecto3.com)
+
+### 3. Certificación de Udemy - Máster en PHP, SQL, POO, MVC, Laravel, Symfony, WordPress+
+   - **Plataforma**: [Udemy](https://www.udemy.com/)
+   - **Contenido**: Este curso abarcó un extenso programa de desarrollo backend y frameworks populares, ayudándome a afianzar mis conocimientos en:
+     - Programación Orientada a Objetos (POO)
+     - PHP y SQL avanzado
+     - Patrones de diseño MVC
+     - Laravel 11 y Symfony 6.4
+     - Creación y gestión de sitios en WordPress
+
+---
+
+## 📈 Próximos Objetivos de Aprendizaje
+
+A continuación, detallo las áreas que planeo estudiar y las tecnologías en las que me gustaría especializarme en el futuro.
+
+### 1. Node.js
+   - **Meta**: Aprender Node.js para ampliar mis habilidades en backend y desarrollar aplicaciones con JavaScript del lado del servidor.
+   - **Recursos Sugeridos**: [Documentación de Node.js](https://nodejs.org/en/docs/), [Curso de Node.js en Udemy](https://www.udemy.com/)
+
+### 2. Python
+   - **Meta**: Familiarizarme con Python para proyectos tanto en desarrollo web como en ciencia de datos.
+   - **Recursos Sugeridos**: [Python en Codecademy](https://www.codecademy.com/learn/learn-python-3), [Python for Everybody en Coursera](https://www.coursera.org/specializations/python)
+
+### 3. React.js
+   - **Meta**: Dominar React.js para el desarrollo de interfaces de usuario avanzadas y dinámicas.
+   - **Recursos Sugeridos**: [Documentación de React](https://reactjs.org/docs/getting-started.html), [Curso de React en Udemy](https://www.udemy.com/course/react-the-complete-guide/)
+
+### 4. Inteligencia Artificial y Machine Learning
+   - **Meta**: Explorar los fundamentos de la IA y el Machine Learning para integrarlos en aplicaciones futuras.
+   - **Recursos Sugeridos**: [Machine Learning en Coursera por Andrew Ng](https://www.coursera.org/learn/machine-learning), [Introducción a IA en edX](https://www.edx.org/learn/artificial-intelligence)
+
+### 5. Otros temas de interés
+   - **Bases de Datos NoSQL (MongoDB)**
+   - **Despliegue y DevOps (Docker, Kubernetes)**
+   - **Automatización de Procesos con Python**
+
+---
+
+## 🚀 Conclusión
+
+Cada etapa en esta ruta de aprendizaje me acerca más a mi meta de ser un **desarrollador completo** y capaz de enfrentar proyectos cada vez de más alto nivel.
+
+---
 
 # Contáctame
 ### corleo.vicente@gmail.com
