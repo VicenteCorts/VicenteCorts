@@ -12,7 +12,7 @@
 
 # 🛤️ Ruta de Aprendizaje Personal
 
-Bienvenido/a a mi camino de aprendizaje en el mundo del desarrollo y la tecnología. En este archivo, comparto mis logros hasta el momento y mis próximos objetivos para seguir creciendo como desarrollador/a.
+Bienvenido/a a mi camino de aprendizaje en el mundo del desarrollo y la tecnología. En este archivo, comparto mis logros hasta el momento y mis próximos objetivos para seguir creciendo como desarrollador.
 
 ---
 
