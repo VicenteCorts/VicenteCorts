@@ -27,9 +27,10 @@ Bienvenido/a a mi camino de aprendizaje en el mundo del desarrollo y la tecnolog
    - **Duración**: 1 año
    - **Descripción**: Colaboré en el diseño y desarrollo de sitios web para clientes, trabajando en tareas de desarrollo web y diseño gráfico.
    - **Proyectos Destacados**:
-     - [Proyecto 1](https://enlace-a-tu-proyecto1.com)
-     - [Proyecto 2](https://enlace-a-tu-proyecto2.com)
-     - [Proyecto 3](https://enlace-a-tu-proyecto3.com)
+     - [Sevilla Coworking](https://sevillacoworking.info/)
+     - [Encina Energy Partners](https://encinainfra.com/)
+     - [Fabrik Fitness Experience](https://fabrikfitness.com/)
+     - [Recuperaciones Cuenca](https://recuperacionescuenca.com/)
 
 ### 3. Certificación de Udemy - Máster en PHP, SQL, POO, MVC, Laravel, Symfony, WordPress+
    - **Plataforma**: [Udemy](https://www.udemy.com/)
