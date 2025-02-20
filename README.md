@@ -1,5 +1,5 @@
 # Hola soy Vicente Corts! 👋
-### Freelance Full-stack, PHP, Laravel, Symfony & WordPress developer
+### Desarrollador Full-stack, PHP, Laravel, Symfony & WordPress developer
 ![https://github.com/VicenteCorts](./icons8-html-64.png)
 ![https://github.com/VicenteCorts](./icons8-css-64.png)
 ![https://github.com/VicenteCorts](./icons8-js-64.png)
@@ -25,7 +25,7 @@ Bienvenido/a a mi camino de aprendizaje en el mundo del desarrollo y la tecnolog
 
 ### 2. Experiencia Laboral en Multiplicalia
    - **Posición**: Desarrollador/a Web
-   - **Duración**: 1 año
+   - **Duración**: 18 meses
    - **Descripción**: Colaboré en el diseño y desarrollo de sitios web para clientes, trabajando en tareas de desarrollo web y diseño gráfico.
    - **Proyectos Destacados**:
      - [Sevilla Coworking](https://sevillacoworking.info/)
@@ -73,7 +73,7 @@ A continuación, detallo las áreas que planeo estudiar y las tecnologías en la
 
 ## 🚀 Conclusión
 
-Cada etapa en esta ruta de aprendizaje me acerca más a mi meta de ser un **desarrollador completo** y capaz de enfrentar proyectos cada vez de más alto nivel.
+Cada etapa en esta ruta de aprendizaje me acerca más a mi meta de ser un **desarrollador completo** capaz de enfrentar proyectos cada vez de más alto nivel.
 
 ---
 
